@@ -1,8 +1,4 @@
 import cbor2
-# [{-3: 1579982564.0, 0: "button", 4: false}, {0: "testProp001", 4: true}, {0: "dimmLED", 2: 25.0}]
-import cbor2
-import json
-
 
 class CloudSenML:
 
