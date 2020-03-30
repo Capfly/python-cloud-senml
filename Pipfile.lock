@@ -1,0 +1,28 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "394d56bfe1ba09f32c38753a0c94493253b490dccce1c5f16be614e23cd086fa"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "cloud-senml",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "cbor2": {
+            "hashes": [
+                "sha256:43ce11e8c2fe4971d386d1a60cf83bfa0a4a667b97668ba76acbf5e6398821aa"
+            ],
+            "index": "pypi",
+            "version": "==5.1.0"
+        }
+    },
+    "develop": {}
+}
